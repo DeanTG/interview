@@ -1,3 +1,3 @@
 # interview
 
-## webpack(https://github.com/DeanTG/interview/issues/1)
+## [webpack](https://github.com/DeanTG/interview/issues/1)
