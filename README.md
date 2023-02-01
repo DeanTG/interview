@@ -3,7 +3,7 @@
 ## js
 * [原型和原型链](https://github.com/DeanTG/interview/issues/3)
 * [作用域和作用域链]
-* [执行上下文]
+* [执行上下文](https://github.com/DeanTG/interview/issues/4)
 * [this]
 * [闭包](https://github.com/DeanTG/interview/issues/2)
 
