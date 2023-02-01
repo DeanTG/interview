@@ -1,6 +1,7 @@
 # interview
 
 ## js
+> [深入理解javascript原型和闭包系列](https://www.cnblogs.com/wangfupeng1988/p/4001284.html)
 * [原型和原型链](https://github.com/DeanTG/interview/issues/3)
 * [作用域和作用域链](https://github.com/DeanTG/interview/issues/6)
 * [执行上下文](https://github.com/DeanTG/interview/issues/4)
