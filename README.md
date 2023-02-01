@@ -4,7 +4,7 @@
 * [原型和原型链](https://github.com/DeanTG/interview/issues/3)
 * [作用域和作用域链]
 * [执行上下文](https://github.com/DeanTG/interview/issues/4)
-* [this]
+* [this](https://github.com/DeanTG/interview/issues/5)
 * [闭包](https://github.com/DeanTG/interview/issues/2)
 
 ## other
