@@ -4,6 +4,7 @@
 > * [深入理解javascript原型和闭包系列](https://www.cnblogs.com/wangfupeng1988/p/4001284.html)
 > * [js引擎的执行过程](https://heyingye.github.io/2018/03/19/js%E5%BC%95%E6%93%8E%E7%9A%84%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89/)
 
+* [js引擎的执行过程](https://github.com/DeanTG/interview/issues/8)
 * [原型和原型链](https://github.com/DeanTG/interview/issues/3)
 * [作用域和作用域链](https://github.com/DeanTG/interview/issues/6)
 * [执行上下文](https://github.com/DeanTG/interview/issues/4)
