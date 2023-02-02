@@ -11,7 +11,7 @@
 * [闭包](https://github.com/DeanTG/interview/issues/2)
 
 ## other
-* [宏任务和微任务]
+* [宏任务和微任务](https://github.com/DeanTG/interview/issues/7)
 * [虚拟dom]
 
 ## vue
