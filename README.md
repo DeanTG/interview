@@ -14,7 +14,7 @@
 ## other
 * [宏任务和微任务](https://github.com/DeanTG/interview/issues/7)
 * [虚拟dom](https://github.com/DeanTG/interview/issues/9)
-* [缓存]
+* [缓存](https://github.com/DeanTG/interview/issues/10)
 
 ## vue
 * [双向绑定原理]
