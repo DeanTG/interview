@@ -18,6 +18,7 @@
 
 ## vue
 * [双向绑定原理]
+* [虚拟 DOM 与 Diff 算法](https://jonny-wei.github.io/blog/vue/vue/vue-diff.html#%E8%99%9A%E6%8B%9F-dom)
 
 ## react
 
