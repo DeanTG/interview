@@ -18,6 +18,7 @@
 
 ## vue
 * [双向绑定原理]
+* [响应式原理](https://github.com/DeanTG/mini-vue)
 * [虚拟 DOM 与 Diff 算法](https://github.com/DeanTG/interview/issues/11)
 
 ## react
