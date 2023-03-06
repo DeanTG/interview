@@ -24,6 +24,7 @@
 * [vue3](https://github.com/DeanTG/interview/issues/15)
 
 ## react
+* [HOC](https://github.com/DeanTG/interview/issues/17)
 
 ## webpack
 * [webpack](https://github.com/DeanTG/interview/issues/1)
