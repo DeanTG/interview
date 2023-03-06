@@ -17,6 +17,7 @@
 * [宏任务和微任务](https://github.com/DeanTG/interview/issues/7)
 * [虚拟dom](https://github.com/DeanTG/interview/issues/9)
 * [缓存](https://github.com/DeanTG/interview/issues/10)
+* [vue与react区别](https://github.com/DeanTG/interview/issues/18)
 
 ## vue
 * [响应式原理](https://github.com/DeanTG/mini-vue)
