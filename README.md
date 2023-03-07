@@ -23,6 +23,7 @@
 * [响应式原理](https://github.com/DeanTG/mini-vue)
 * [虚拟 DOM 与 Diff 算法](https://github.com/DeanTG/interview/issues/11)
 * [vue3](https://github.com/DeanTG/interview/issues/15)
+* [keep-alive](https://github.com/DeanTG/interview/issues/19)
 
 ## react
 * [HOC](https://github.com/DeanTG/interview/issues/17)
