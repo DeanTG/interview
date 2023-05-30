@@ -10,6 +10,7 @@
 * [执行上下文](https://github.com/DeanTG/interview/issues/4)
 * [this](https://github.com/DeanTG/interview/issues/5)
 * [闭包](https://github.com/DeanTG/interview/issues/2)
+* [new](https://github.com/DeanTG/interview/issues/28)
 
 ## typescript
 
@@ -49,3 +50,4 @@
 ## 汇总题
 * [前端面试复习计划](https://juejin.cn/post/7061588533214969892#heading-84)
 * [2023年最新Vue面试题剖析原理级讲解](https://www.bilibili.com/video/BV1YM411w7Zc?p=13&spm_id_from=pageDriver&vd_source=e7f3edf6e8b0d1a3d978193d13990ed4)
+* [前端那些事儿](https://jonny-wei.github.io/blog/base/javascript/scope.html#%E4%B8%A4%E4%BD%9C%E7%94%A8%E5%9F%9F%E7%9A%84%E5%8C%BA%E5%88%AB)
