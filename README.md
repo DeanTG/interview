@@ -28,6 +28,7 @@
 * [vue-router](https://github.com/DeanTG/interview/issues/27)
 * [vuex](https://github.com/DeanTG/interview/issues/29)
 * [key](https://github.com/DeanTG/interview/issues/24)
+* [nextTick](https://github.com/DeanTG/interview/issues/25)
 
 ## react
 * [HOC](https://github.com/DeanTG/interview/issues/17)
