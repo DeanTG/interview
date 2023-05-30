@@ -26,6 +26,7 @@
 * [vue3](https://github.com/DeanTG/interview/issues/15)
 * [keep-alive](https://github.com/DeanTG/interview/issues/19)
 * [vue-router](https://github.com/DeanTG/interview/issues/27)
+* [vuex](https://github.com/DeanTG/interview/issues/29)
 
 ## react
 * [HOC](https://github.com/DeanTG/interview/issues/17)
