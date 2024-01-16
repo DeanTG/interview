@@ -12,6 +12,7 @@
 * [闭包](https://github.com/DeanTG/interview/issues/2)
 * [new](https://github.com/DeanTG/interview/issues/28)
 * [模块化](https://github.com/DeanTG/interview/issues/32)
+* [Map vs WeakMap](https://github.com/DeanTG/interview/issues/33)
 
 ## typescript
 
